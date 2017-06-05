@@ -1,0 +1,7 @@
+Library/
+ProjectSettings/
+Temp/
+*.csproj
+*.sln
+*.DS_store
+.vs/
