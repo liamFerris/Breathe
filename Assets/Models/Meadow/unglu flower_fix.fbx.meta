@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: 6e5e8ec43ae9d42eea0b897e2abc9cac
+timeCreated: 1488542704
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: flower_petals
+    100002: LILI_RIG
+    100004: LILI_RIG1
+    100006: LILI_RIG10
+    100008: LILI_RIG11
+    100010: LILI_RIG2
+    100012: LILI_RIG3
+    100014: LILI_RIG4
+    100016: LILI_RIG5
+    100018: LILI_RIG6
+    100020: LILI_RIG7
+    100022: LILI_RIG8
+    100024: LILI_RIG9
+    100026: polymsh
+    100028: //RootNode
+    400000: flower_petals
+    400002: LILI_RIG
+    400004: LILI_RIG1
+    400006: LILI_RIG10
+    400008: LILI_RIG11
+    400010: LILI_RIG2
+    400012: LILI_RIG3
+    400014: LILI_RIG4
+    400016: LILI_RIG5
+    400018: LILI_RIG6
+    400020: LILI_RIG7
+    400022: LILI_RIG8
+    400024: LILI_RIG9
+    400026: polymsh
+    400028: //RootNode
+    2300000: polymsh
+    3300000: polymsh
+    4300000: flower_petals
+    4300002: polymsh
+    7400000: Take 001
+    7400002: Wiggle
+    7400004: Open
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: flower_petals
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: flower_petals
+        weight: 1
+      - path: LILI_RIG8
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG1
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2/LILI_RIG7
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2/LILI_RIG7/LILI_RIG3
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2/LILI_RIG7/LILI_RIG3/LILI_RIG
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2/LILI_RIG7/LILI_RIG4
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2/LILI_RIG7/LILI_RIG4/LILI_RIG5
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2/LILI_RIG7/LILI_RIG6
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2/LILI_RIG7/LILI_RIG6/LILI_RIG9
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2/LILI_RIG7/LILI_RIG10
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2/LILI_RIG7/LILI_RIG10/LILI_RIG11
+        weight: 1
+      - path: polymsh
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Wiggle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24.5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: flower_petals
+        weight: 1
+      - path: LILI_RIG8
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG1
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2/LILI_RIG7
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2/LILI_RIG7/LILI_RIG3
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2/LILI_RIG7/LILI_RIG3/LILI_RIG
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2/LILI_RIG7/LILI_RIG4
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2/LILI_RIG7/LILI_RIG4/LILI_RIG5
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2/LILI_RIG7/LILI_RIG6
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2/LILI_RIG7/LILI_RIG6/LILI_RIG9
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2/LILI_RIG7/LILI_RIG10
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2/LILI_RIG7/LILI_RIG10/LILI_RIG11
+        weight: 1
+      - path: polymsh
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Open
+      takeName: Take 001
+      firstFrame: 24.5
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: flower_petals
+        weight: 1
+      - path: LILI_RIG8
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG1
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2/LILI_RIG7
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2/LILI_RIG7/LILI_RIG3
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2/LILI_RIG7/LILI_RIG3/LILI_RIG
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2/LILI_RIG7/LILI_RIG4
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2/LILI_RIG7/LILI_RIG4/LILI_RIG5
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2/LILI_RIG7/LILI_RIG6
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2/LILI_RIG7/LILI_RIG6/LILI_RIG9
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2/LILI_RIG7/LILI_RIG10
+        weight: 1
+      - path: LILI_RIG8/LILI_RIG2/LILI_RIG7/LILI_RIG10/LILI_RIG11
+        weight: 1
+      - path: polymsh
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

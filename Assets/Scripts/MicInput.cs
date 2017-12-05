@@ -25,7 +25,6 @@ public class MicInput : MonoBehaviour
         if (tempMicReading > 0.001)
         {
             micReading = MicLoudness();
-            Debug.Log("d");
         }
         else
             micReading = 0;
